@@ -1,0 +1,258 @@
+
+body
+{
+   background-color: lightgray;
+}
+.ana
+{
+	width: 100%;
+	height: 100%;
+}
+.ustkisim
+{
+   width: 780px;
+   height: 150px;
+   background-image: url("../images/fon_ust.png");
+   margin-left: auto;
+   margin-right: auto;
+}
+.mavimenu
+{
+   width: 740px;
+   height: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 0px;
+   list-style-type: none;
+   background-image: url("../images/ust_bg.png");
+
+}
+.mavimenu .grup1
+{
+   float:left;
+   
+}
+.mavimenu li
+{
+   display: inline;
+   margin:10px;
+}
+.mavimenu li img:hover
+{
+  
+  padding-top: 10px;
+   transition: all 0.7s;
+}
+.icerikkismi
+{
+   background-image: url("../images/fon.png");
+   width: 780px;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 40px;
+}
+.gruplar1
+{
+margin-left: 35px;
+font: 12pt;
+}
+
+.gruplar1 img
+{
+   border:8px outset powderblue;
+   border-radius: 3px;
+}
+.gruplar2
+{
+float: right;
+margin-right: 35px;
+}
+.gruplar2 img
+{
+   border:8px outset powderblue;
+   border-radius: 3px;
+}
+.clear
+{
+   clear: both;
+}
+.gruplar3
+{
+margin-left: 35px;
+
+}
+.gruplar3 img
+{
+   border:8px outset powderblue;
+   border-radius: 3px;
+}
+.metin1
+{
+   font-family: Calibri;
+   font-size: 15pt;
+   color: #666;
+   float: right;
+   height: 160px;
+   width: 400px;
+   margin:10px;
+   margin-right: 65px;
+   margin-top: 35px;
+   text-align:left;
+   vertical-align: middle;
+}
+.metin2
+{
+   font-family: Calibri;
+   font-size: 15pt;
+   color: #666;
+   float: left;
+   height: 160px;
+   width: 400px;
+   margin:10px;
+   margin-right: 65px;
+   margin-top: 35px;
+   text-align:left;
+}
+.metin3
+{
+   font-family: Calibri;
+   font-size: 15pt;
+   color: #666;
+   float: right;
+   height: 160px;
+   width: 400px;
+   margin:10px;
+   margin-right: 65px;
+   margin-top: 35px;
+   text-align:left;
+}
+.alt
+{
+   margin-left: auto;
+   margin-right: auto;
+   width: 780px;
+   height: 129px;
+   background-image: url("../images/fon_alt.png");
+}
+.f1 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f1 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.f2 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f2 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.f3 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f3 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.f4 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f4 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.f5 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f5 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.f6 img
+{
+   border-radius: 999px;
+   margin: 2px;
+}
+.f6 img:hover
+{
+   transition: 2s;
+   width: 300px;
+   height: 300px;
+}
+.icerikkismi2
+{
+   background-image: url("../images/fon.png");
+   height: 380px;
+   width: 780px;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 40px;
+}
+.icerikkismi2 legend
+{
+   font-family: Calibri;
+   font-size: 16pt;
+   font-weight: bold;
+   color: whitesmoke;
+   border: 2px solid #659B17;
+   border-radius: 10px;
+   background-color: #FCBB00;
+   text-align: center;
+}
+.icerikkismi2 fieldset
+{
+   border-top-width: medium;
+   border-right-width: medium;
+   border-bottom-width: medium;
+   border-left-width: medium;
+}
+.icerikkismi2 label
+{
+   color: #06C;
+   font-family: "Courier New", Courier, monospace;
+   font-size: 15pt;
+   font-weight: bold;
+}
+.icerikkismi2 input
+{
+   border-radius: 3px;
+   width: 125px;
+   height: 25px;
+   background-color: #8AD4FF;
+}
+.icerikkismi2 textarea,select
+{
+   background-color: #8AD4FF;
+   color: whitesmoke;
+}
+.icerikkismi2 button
+{
+   background-color: #FCBB00;
+   border-radius: 5px;
+   width: 75px;
+   height: 25px;
+   color: whitesmoke;
+   border: 2px solid #659B17;
+   font-weight: bolder;
+}
